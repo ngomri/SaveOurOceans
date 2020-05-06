@@ -1,0 +1,49 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+background: url(wavebackground3.png) no-repeat;
+background-size: cover;
+font-family: Montserrat !important;
+}
+
+.jumbotron {
+	background-color:transparent !important;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	color: white !important;
+}
+
+.container {
+	padding-top: 35%;
+	text-align: center;
+}
+
+.card {
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	border-radius: 35px;
+}
+
+#about {
+	color: black !important;
+	padding-top: 100px;
+}
+
+#help {
+
+	color: black !important;
+	padding-top: 375px;
+}
+
+.rowpic {
+	width: 242;
+	height: 200;
+	border-radius: 5px;
+
+}
